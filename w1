@@ -9,4 +9,4 @@ age_in_10_years = age + 10
 
 # Print the result
 print(f"Hi {name}! In 10 years, you'll be {age_in_10_years} years old.")
-
+yes this python program
